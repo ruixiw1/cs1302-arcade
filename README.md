@@ -447,7 +447,8 @@ on the work that you have done and the work that you have remaining.
 
      ```
      $ git tag -am "Deadline 1" deadline1
-     $ git push --all origin --tags
+     $ git push --all origin
+     $ git push origin --tags
      ```
   
   After pushing, all commits that you've made so far should be visible in your private repository
@@ -487,7 +488,8 @@ the use of branching and merging. Here are the specific requirements:
 
      ```
      $ git tag -am "Deadline 2" deadline2
-     $ git push --all origin --tags
+     $ git push --all origin
+     $ git push origin --tags
      ```
      
   After pushing, all commits that you've made so far should be visible in your private repository
@@ -532,7 +534,8 @@ the use of branching and merging. Here are the specific requirements:
 
      ```
      $ git tag -am "Deadline 3" deadline3
-     $ git push --all origin --tags
+     $ git push --all origin
+     $ git push origin --tags
      ```
      
 * Evidence of branching and merging **is required** for this deadline. When inspecting your
