@@ -11,4 +11,4 @@ Here is a sample entry (delete this line; also: feel free to copy/paste/modify):
 
 1. nope.
 2. read project description and make a to-do list about project.
-3. I nope it can clearly show my work process.
+3. I hope it can clearly show my work process.
