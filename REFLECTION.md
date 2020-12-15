@@ -18,3 +18,8 @@ Here is a sample entry (delete this line; also: feel free to copy/paste/modify):
 1. I've already read project description and made a short list about project, but I didn't work with the start code.
 2. I plan to finish the project.
 3. After reading the project description, I found I should work on JavaFX. Maybe I need to start with a new ssh? Is it means I have to start all over again？
+
+## Deadline 3 - TUE 2020-12-15 (Dec 15)
+1. I have already finished the whole project. I think there is nothing difference with my plan in Deadline2.
+2. I found I don't need to start with a new ssh. The works in ssh and ssh -XY are the same. Maybe the difference only happens when I compile the code. The new problem I find is that 60 lines is always not enough! Could you increase the number of lines in checkstyle?
+3. The grader should check both of the extra points.
