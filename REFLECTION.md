@@ -22,4 +22,4 @@ Here is a sample entry (delete this line; also: feel free to copy/paste/modify):
 ## Deadline 3 - TUE 2020-12-15 (Dec 15)
 1. I have already finished the whole project. I think there is nothing difference with my plan in Deadline2.
 2. I found I don't need to start with a new ssh. The works in ssh and ssh -XY are the same. Maybe the difference only happens when I compile the code. The new problem I find is that 60 lines is always not enough! Could you increase the number of lines in checkstyle?
-3. The grader should check both of the extra points.
+3. The grader should check Extra Credit 2.
